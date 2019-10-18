@@ -1,5 +1,5 @@
 # hilpisch
-time series data modeling 
+financial data modeling 
 
 ## Basic viz in finance:
 
